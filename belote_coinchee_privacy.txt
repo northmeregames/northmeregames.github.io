@@ -1,0 +1,33 @@
+# Privacy Policy — Belote Coinchée
+
+This Privacy Policy explains how Belote Coinchée handles your information.
+
+## Personal Information
+
+You do not need to create an account or provide any personal information to use the application.
+
+## Game Statistics
+
+The application records game statistics to display your progress and performance.
+
+These statistics are stored locally on your device. They are not transmitted to us or shared with third parties.
+
+## Advertising
+
+The application does not display advertisements.
+
+## Data Retention and Deletion
+
+Your game statistics remain on your device until you uninstall the application or clear its data.
+
+Uninstalling the application deletes locally stored statistics, subject to your device's backup and restoration settings.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be published in the updated policy.
+
+We encourage you to review this policy periodically.
+
+## Contact
+
+If you have any questions about this Privacy Policy or how the application handles information, please contact us at: northmeregames@gmail.com
