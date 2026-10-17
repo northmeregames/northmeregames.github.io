@@ -1,0 +1,63 @@
+# Privacy Policy — Caravane 1352
+
+Last updated: October 17, 2026
+
+This Privacy Policy explains how Caravane 1352 handles your information.
+
+## Personal Information
+
+You do not need to create an account or provide any personal information to use the application.
+
+## Data Stored on Your Device
+
+Your saved games, settings, and player notes are stored locally on your device and are not transferred to us or third parties.
+
+This data is deleted when you uninstall the application, subject to your device's backup and restoration settings.
+
+## Advertising
+
+The application uses Google AdMob to display advertisements, including optional rewarded ads.
+
+Google and its advertising partners may process device information, advertising identifiers, IP addresses, and ad interactions to provide and measure advertisements.
+
+Where required, Google User Messaging Platform (UMP) manages advertising consent and provides privacy choices.
+
+## Usage Statistics
+
+The application uses Firebase Analytics to collect gameplay statistics, including journeys, trading, encounters, and other game events.
+
+These statistics are analyzed in aggregate to understand how the game is played and improve its gameplay and balance.
+
+## Crash Reports
+
+The application uses Firebase Crashlytics to collect technical information about errors and crashes.
+
+These reports help us identify problems and improve the application's stability.
+
+## Data Sharing and Security
+
+Google processes data through AdMob, Firebase Analytics, and Firebase Crashlytics to provide these services.
+
+We do not share data with other third parties beyond Google and its advertising partners as described above.
+
+Data transmitted to Google services is protected using encrypted connections.
+
+For more information, see [Google's Privacy Policy](https://policies.google.com/privacy) and [Firebase Privacy and Security](https://firebase.google.com/support/privacy).
+
+## Data Retention
+
+Data stored locally remains on your device until it is deleted or the application is uninstalled.
+
+Data processed by Google services is retained according to their applicable retention policies and settings.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be published in the updated policy.
+
+We encourage you to review this policy periodically.
+
+## Contact
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+northmeregames@gmail.com
